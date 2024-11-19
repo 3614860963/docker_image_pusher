@@ -1,1 +1,1 @@
-halo:latest
+halo/halo:2.20
