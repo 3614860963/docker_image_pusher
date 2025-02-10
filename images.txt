@@ -1,2 +1,1 @@
-eugencepoi/nsfw_api:latest
-penndu/nsfw-api:latest
+ghcr.io/arnidan/nsfw-api:latest
