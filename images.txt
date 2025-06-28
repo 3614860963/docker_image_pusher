@@ -1,1 +1,2 @@
-ghcr.io/arnidan/nsfw-api:latest
+githubyumao/mcsmanager-daemon:latest
+githubyumao/mcsmanager-web:latest
