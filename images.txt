@@ -1,3 +1,1 @@
-ghcr.io/666ghj/bettafish:v2.1.0
-chigusa/bililive-go:v0.7.39
-lanol/filecodebox:beta
+arnidan/nsfw-api:latest
